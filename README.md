@@ -1,8 +1,11 @@
 # CIS18FinalProject
 
 Project Creator: Harshil Patel
+
 Version Number: 1.0
+
 Date of Creation: July 25, 2019
+
 
 Project Desciption:
 
